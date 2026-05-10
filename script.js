@@ -1,11 +1,11 @@
 const products = [
-  { name: 'Moonpetal Scrunchie', category: 'Scrunchies', price: 50, sizes: 'Small ₹50 • Medium ₹80 • Large ₹120', tags: ['velvet soft', 'blush'], shape: 'scrunchie' },
-  { name: 'Cocoa Moon Small Pouch', category: 'Pouches', price: 180, sizes: 'Small ₹180 • Medium ₹280 • Large ₹380', tags: ['zip pouch', 'cocoa'], shape: 'pouch' },
-  { name: 'Luna Sling Bag', category: 'Sling Bags', price: 450, sizes: 'Small ₹450 • Medium ₹650 • Large ₹800', tags: ['crescent flap', 'lined'], shape: 'sling' },
-  { name: 'Heart & Bow Keychain', category: 'Keychains', price: 70, sizes: 'Small ₹70 • Medium ₹110 • Large ₹160', tags: ['bow charm', 'mini gift'], shape: 'keychain' },
+  { name: ' Scrunchie', category: 'Scrunchies', price: 50, sizes: 'Small ₹50 • Medium ₹80 • Large ₹120', tags: ['velvet soft', 'blush'], shape: 'scrunchie' },
+  { name: ' Small Pouch', category: 'Pouches', price: 180, sizes: 'Small ₹180 • Medium ₹280 • Large ₹380', tags: ['zip pouch', 'cocoa'], shape: 'pouch' },
+  { name: ' Sling Bag', category: 'Sling Bags', price: 450, sizes: 'Small ₹450 • Medium ₹650 • Large ₹800', tags: ['crescent flap', 'lined'], shape: 'sling' },
+  { name: ' Keychain', category: 'Keychains', price: 70, sizes: 'Small ₹70 • Medium ₹110 • Large ₹160', tags: ['bow charm', 'mini gift'], shape: 'keychain' },
   { name: 'Custom Keychain', category: 'Keychains', price: 90, sizes: 'Small ₹90 • Medium ₹140 • Large ₹200', tags: ['personalized', 'gold ring'], shape: 'keychain' },
-  { name: 'Midnight Market Tote', category: 'Tote Bags', price: 350, sizes: 'Small ₹350 • Medium ₹550 • Large ₹750', tags: ['roomy', 'star charm'], shape: 'tote' },
-  { name: 'Starlace Bookmark', category: 'Bookmarks', price: 50, sizes: 'Small ₹50 • Medium ₹80 • Large ₹120', tags: ['reader gift', 'lace edge'], shape: 'bookmark' }
+  { name: ' Tote Bag', category: 'Tote Bags', price: 350, sizes: 'Small ₹350 • Medium ₹550 • Large ₹750', tags: ['roomy', 'star charm'], shape: 'tote' },
+  { name: 'Bookmark', category: 'Bookmarks', price: 50, sizes: 'Small ₹50 • Medium ₹80 • Large ₹120', tags: ['reader gift', 'lace edge'], shape: 'bookmark' }
 ];
 
 const gallery = [
